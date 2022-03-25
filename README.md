@@ -1,6 +1,8 @@
 # Polywrap Technical Council 
 
 ###### tags: `Polywrap Technical Council`
+
+**Original Doc:** https://hackmd.io/PEJxawYvS4uigWvBKI4d0w
 :::info
 
 **Welcome to the Polywrap Technical Council!**
