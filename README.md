@@ -1,19 +1,10 @@
 # Polywrap Technical Council 
 
-###### tags: `Polywrap Technical Council`
-
-**Original Doc:** https://hackmd.io/PEJxawYvS4uigWvBKI4d0w
-:::info
 
 **Welcome to the Polywrap Technical Council!**
 
 This is the starting point for joining and contributing to the Polywrap Technical Council. 
 
-:::
-
-**Table of Content:**
-
-[TOC]
 
 ## Overview
 Technical Council (TC) is a core-development forum where new standards & features can be discussed and debated, with the goal of extracting as many key developer opinions as possible to ensure we’re making well researched and thoughtful decisions. 
@@ -42,11 +33,6 @@ Technical Council membership is open to all Polywrap DAO members, at individual 
 * **Task Force(s)** - 
     * one or more individuals appointed by the Technical Council to investigate, evaluate and recommend action to the Technical Council on special matters brought before it.
 
-::: warning
-**OPEN QUESTIONS:** 
-1. Do we want to define a Chair role?
-2. Do we want want to name representative members?
-:::
 
 **Additional Roles:**
 * Secretary –
@@ -57,13 +43,6 @@ Technical Council membership is open to all Polywrap DAO members, at individual 
 ### Council Decisions
 * Some Technical Council's decisions maybe ratified through a voting process by the council members. 
 * Further, some key Technical Council's decisions may be submitted in a form of a *proposal* for a vote to all Polywrap DAO members.
-
-::: warning
-**OPEN QUESTIONS:** 
-1. How is the vote on specific decision is called?
-2. Should the vote be called during council meeting or in offline? 
-:::
-
 
 ## Operations
 
