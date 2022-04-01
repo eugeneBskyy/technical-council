@@ -55,8 +55,9 @@ Technical Council meet weekly, on Fridays at 4:00 PM GMT. Meetings conducted in 
 ### Meetings History
 
 
-* [2022-03-18](https://github.com/polywrap/technical-council/blob/main/meetings/2022-03-18.md)
-* [2022-03-25](https://github.com/polywrap/technical-council/blob/main/meetings/2022-03-25.md)
+* [2022-03-18](meetings/2022-03-18.md)
+* [2022-03-25](meetings/2022-03-25.md)
+* [2022-04-01](meetings/2022-04-01.md)
 
 
 
