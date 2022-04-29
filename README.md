@@ -11,7 +11,8 @@ Technical Council (TC) is a core-development forum where new standards & feature
 
 Technical Council key focus areas:
 
-- **Standards** - defined and agreed-upon technical norms, [specifications](https://github.com/polywrap/specification) and guidelines by which all Polywrap tooling should abide by. 
+- **Standards** - defined and agreed-upon technical norms, specifications and guidelines by which all Polywrap tooling should abide by. 
+  - [Standards Documentation](https://github.com/polywrap/specification/tree/main/standard)
 - **Features** - technical debates around specific implementation options and challenges, with a goal to provide a well-researched technical direction and further contribute to the definition of standards.  
 
 ## Roadmap
