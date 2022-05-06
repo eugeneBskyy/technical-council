@@ -47,6 +47,19 @@ Technical Council membership is open to all Polywrap DAO members, at individual 
 
 ## Operations
 
+### Standards Acceptance Criteria
+* Conduct Workshop
+* Add Description
+* Add Details
+* Add Pseudo Code Example
+* Initial Feedback
+* Final Feedback
+* Acceptance
+
+### Features Acceptance Criteria
+TODO
+
+
 ### Communications
 Technical Council dedicated [Discord channel](https://discord.gg/Ntavqc8g): `#technical-council`
 
