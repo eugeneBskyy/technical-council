@@ -80,6 +80,9 @@ Technical Council meet weekly, on Fridays at 4:00 PM GMT. Meetings conducted in 
 * [2022-04-22](meetings/2022-04-22.md)
 * [2022-04-29](meetings/2022-04-29.md)
 * [2022-05-06](meetings/2022-05-06.md)
+* [2022-05-13](meetings/2022-05-13.md)
+* [2022-05-20](meetings/2022-05-20.md)
+
 
 
 
