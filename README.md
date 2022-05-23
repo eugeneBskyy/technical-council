@@ -64,7 +64,9 @@ TODO
 Technical Council dedicated [Discord channel](https://discord.gg/Ntavqc8g): `#technical-council`
 
 ### Meetings  
-Technical Council meet weekly, on Fridays at 4:00 PM GMT. Meetings conducted in [Polywrap Discord](https://discord.com/invite/h3TcGatc) in `#members-lounge`
+* Technical Council meet weekly, on Thursday at 4:00 PM GMT. 
+* Technical Council workshops are conducted weekly, on Tusdays and Fridays at 4:00 PM GMT.
+* Meetings conducted in [Polywrap Discord](https://discord.com/invite/h3TcGatc) in `#members-lounge`
 
 ### Operational Reports
 * [Apr, 2022](ops-reports/2022-04.md)
