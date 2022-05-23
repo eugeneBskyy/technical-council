@@ -48,10 +48,10 @@ Technical Council membership is open to all Polywrap DAO members, at individual 
 ## Operations
 
 ### Standards Acceptance Criteria
-* Conduct Workshop
 * Add Description
 * Add Details
-* Add Pseudo Code Example
+* Add Outline
+* Add Pseudo Code Example, (if needed)
 * Initial Feedback
 * Final Feedback
 * Acceptance
