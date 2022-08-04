@@ -72,6 +72,7 @@ Technical Council dedicated [Discord channel](https://discord.gg/Ntavqc8g): `#te
 * [Apr, 2022](ops-reports/2022-04.md)
 * [May, 2022](ops-reports/2022-05.md)
 * [Jun, 2022](ops-reports/2022-06.md)
+* [Jul, 2022](ops-reports/2022-07.md)
 
 ### Meetings History
 
