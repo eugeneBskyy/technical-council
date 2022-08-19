@@ -100,7 +100,7 @@ Technical Council dedicated [Discord channel](https://discord.gg/Ntavqc8g): `#te
 * [2022-08-03](meetings/2022-08-03.md)
 * [2022-08-10](meetings/2022-08-10.md)
 * [2022-08-17](meetings/2022-08-17.md)
-
+* [2022-08-24](meetings/2022-08-24.md)
 
 
 
